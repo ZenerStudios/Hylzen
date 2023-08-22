@@ -6,7 +6,7 @@
   "theme_color": "#1818180",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": "https://www.hylzen.com",
+  "start_url": "./",
   "scope": "./",
   "lang": "es-ES",
   "icons": [
